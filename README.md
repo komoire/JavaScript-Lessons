@@ -12,7 +12,7 @@ This repository contains a collection of JavaScript exercises focused on fundame
 - [Contributing](#contributing)
 
 
-## Exercises
+# Exercises
 
 ### 1. If Statements
 This set of exercises covers how to use `if`, `else if`, and `else` statements in JavaScript to control the flow of your program based on conditions.
